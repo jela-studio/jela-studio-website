@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 299.99 174.63">
+  <defs>
+    <style>
+      .cls-1 {
+        font-family: JosefinSans-Bold, 'Josefin Sans';
+        font-size: 150px;
+        font-weight: 700;
+      }
+
+      .cls-1, .cls-2 {
+        letter-spacing: -.05em;
+      }
+
+      .cls-2 {
+        fill: #fff;
+        font-family: JosefinSans-Medium, 'Josefin Sans';
+        font-size: 120px;
+        font-weight: 500;
+      }
+
+      .cls-3 {
+        stroke: #fff;
+        stroke-miterlimit: 10;
+        stroke-width: 12.5px;
+      }
+    </style>
+  </defs>
+  <g>
+    <path class="cls-3" d="M131.58,91.76c0,28.8,16.63,53.7,40.81,65.66V26.1c-24.17,11.96-40.81,36.86-40.81,65.66Z"/>
+    <path class="cls-3" d="M204.8,18.53c-11.64,0-22.64,2.73-32.42,7.57v131.32c9.77,4.84,20.78,7.57,32.42,7.57,40.44,0,73.22-32.78,73.22-73.22S245.24,18.53,204.8,18.53Z"/>
+  </g>
+  <text class="cls-1" transform="translate(20.1 127.65)"><tspan x="0" y="0">je</tspan></text>
+  <text class="cls-2" transform="translate(184.52 129.14)"><tspan x="0" y="0">a</tspan></text>
+</svg>
